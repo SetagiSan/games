@@ -1,0 +1,3 @@
+C:\Users\Jaro\source\repos\FormInvaders\FormInvaders\x64\Debug\FormInvaders.vcxproj.AssemblyReference.cache
+C:\Users\Jaro\source\repos\FormInvaders\FormInvaders\x64\Debug\FormInvaders.MyForm.resources
+C:\Users\Jaro\source\repos\FormInvaders\FormInvaders\x64\Debug\FormInvaders.vcxproj.GenerateResource.cache

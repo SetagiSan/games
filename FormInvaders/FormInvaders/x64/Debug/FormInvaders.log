@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Jaro\source\repos\FormInvaders\FormInvaders\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Jaro\source\repos\FormInvaders\FormInvaders\MyForm.cpp(97,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FormInvaders.vcxproj -> C:\Users\Jaro\source\repos\FormInvaders\x64\Debug\FormInvaders.exe
