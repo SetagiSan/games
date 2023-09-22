@@ -1,0 +1,4 @@
+﻿  Zavod.cpp
+C:\Users\Jaro\source\repos\Zavod\Zavod\Zavod.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Jaro\source\repos\Zavod\Zavod\Zavod.cpp(72,48): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  Zavod.vcxproj -> C:\Users\Jaro\source\repos\Zavod\x64\Debug\Zavod.exe
